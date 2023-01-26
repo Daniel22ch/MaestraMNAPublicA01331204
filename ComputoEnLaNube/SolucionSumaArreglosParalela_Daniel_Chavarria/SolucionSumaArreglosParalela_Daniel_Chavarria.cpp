@@ -31,7 +31,7 @@ int main()
 
     if (nHilos > NUM_MAX_HILOS)
     {
-        nHilos = 16;
+        nHilos = NUM_MAX_HILOS;
     }
 
     if(nHilos < 1)
@@ -45,7 +45,7 @@ int main()
 
     if (arregloSize > TAMANO_MAX_ARREGLOS)
     {
-        arregloSize = 1000;
+        arregloSize = TAMANO_MAX_ARREGLOS;
     }
 
     if (arregloSize < 1)
