@@ -1,4 +1,4 @@
 ﻿  SolucionSumaArreglosParalela_Daniel_Chavarria.cpp
-C:\GitKraken\MaestraMNAPublicA01331204\ComputoEnLaNube\SolucionSumaArreglosParalela_Daniel_Chavarria\SolucionSumaArreglosParalela_Daniel_Chavarria.cpp(64,25): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
-C:\GitKraken\MaestraMNAPublicA01331204\ComputoEnLaNube\SolucionSumaArreglosParalela_Daniel_Chavarria\SolucionSumaArreglosParalela_Daniel_Chavarria.cpp(65,25): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\GitKraken\MaestraMNAPublicA01331204\ComputoEnLaNube\SolucionSumaArreglosParalela_Daniel_Chavarria\SolucionSumaArreglosParalela_Daniel_Chavarria.cpp(62,25): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\GitKraken\MaestraMNAPublicA01331204\ComputoEnLaNube\SolucionSumaArreglosParalela_Daniel_Chavarria\SolucionSumaArreglosParalela_Daniel_Chavarria.cpp(63,25): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
   SolucionSumaArreglosParalela_Daniel_Chavarria.vcxproj -> C:\GitKraken\MaestraMNAPublicA01331204\ComputoEnLaNube\SolucionSumaArreglosParalela_Daniel_Chavarria\Debug\SolucionSumaArreglosParalela_Daniel_Chavarria.exe

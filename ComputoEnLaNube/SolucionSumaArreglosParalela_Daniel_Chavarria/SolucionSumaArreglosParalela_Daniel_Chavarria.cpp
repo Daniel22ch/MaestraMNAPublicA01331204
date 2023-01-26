@@ -6,15 +6,13 @@
 
 #define NUM_MAX_HILOS 16
 #define TAMANO_MAX_ARREGLOS 1000
-
-#define N 1000 
-
 using namespace std;
-int tid;
+
 float arregloA[TAMANO_MAX_ARREGLOS], arregloB[TAMANO_MAX_ARREGLOS], arregloSuma[TAMANO_MAX_ARREGLOS];
 int i;
 
 void printArray(float* f, int cantidad);
+
 int main()
 {
 
